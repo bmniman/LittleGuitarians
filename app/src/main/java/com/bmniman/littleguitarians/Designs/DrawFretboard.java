@@ -77,6 +77,9 @@ import static android.icu.lang.UCharacter.GraphemeClusterBreak.T;
 
 public class DrawFretboard extends AppCompatActivity { //implements RecognitionListener{
 
+
+    // Testing
+
     static ProcessPitch process = new ProcessPitch(); // To Call Process Pitch Method
     final int frets = 20; // Number Of Frets
     final int NUM_ROWS = 6;
@@ -475,6 +478,7 @@ public class DrawFretboard extends AppCompatActivity { //implements RecognitionL
 
     }
 
+    // Hello
 
     private void drawFrets() // To Make Frets
     {

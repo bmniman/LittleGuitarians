@@ -1,0 +1,19 @@
+#Fri Aug 31 14:33:56 IST 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/28
+base.4=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/34
+base.3=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/37
+base.2=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/36
+base.1=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/28
+base.0=/home/bhavin/Desktop/LittleGuitarians/app/build/intermediates/transforms/dexMerger/debug/38
+path.5=classes2.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex

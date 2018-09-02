@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_margin">16sp</dimen>
+    <dimen name="fretDist"> 69dp </dimen>  <!-- Distance Between Two Frets -->
+    <dimen name="alert_def_padding">18dp</dimen>
+
+
+    <dimen name = "exerWidth"> 190dp </dimen>   <!-- Width of the Exercsie Texview -->
+    <dimen name="exerHeight"> 160dp </dimen>    <!-- Height of the Exercsie Texview -->
+
+    <dimen name="scaleWidth"> 195dp </dimen>     <!--Width of the Scale Textview -->
+    <dimen name="scaleHeight"> 130dp </dimen>     <!-- Height of the Scale Textview-->
+
+
+
+    <dimen name="keyWidth"> 95dp </dimen>     <!--Width of the Key Textview -->
+    <dimen name="keyHeight"> 65dp </dimen>     <!-- Height of the Key Textview-->
+
+
+</resources>

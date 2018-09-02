@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "1083473511924",
+    "firebase_url": "https://little-guitarians.firebaseio.com",
+    "project_id": "little-guitarians",
+    "storage_bucket": "little-guitarians.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083473511924:android:797f394d44e91193",
+        "android_client_info": {
+          "package_name": "com.bmniman.littleguitarians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083473511924-727jh8b9jhvvee1hu07gickitnoe61ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmniman.littleguitarians",
+            "certificate_hash": "d0c29cd1a5d0b41cfb442446b8d1a3dbd198cb7b"
+          }
+        },
+        {
+          "client_id": "1083473511924-4pii3pjse30ftr97kbep4iudhpg4f0h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmniman.littleguitarians",
+            "certificate_hash": "ca4da502b9c13bf21b9d236260ceaff9ef3e74a2"
+          }
+        },
+        {
+          "client_id": "1083473511924-c5ocv3tphnrn9tgubtg0iq6css4jjmjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bmniman.littleguitarians",
+            "certificate_hash": "d63212df1aaab919f29955f69d7fdcc5333d548a"
+          }
+        },
+        {
+          "client_id": "1083473511924-bs3c6c27480i571in6k1t2dpksea30p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGtWdmBoMgXcfuVPCIXZ_n3JelhLyqGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083473511924-bs3c6c27480i571in6k1t2dpksea30p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

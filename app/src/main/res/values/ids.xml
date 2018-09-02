@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewPager" type="id" />
+    <item name="spaceTabLayout" type="id" />
+    <item name="activity_design" type="id" />
+</resources>

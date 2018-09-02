@@ -1,0 +1,61 @@
+<android.support.v7.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <android.support.v7.preference.PreferenceCategory
+        android:title="General">
+
+     <!--   <android.support.v7.preference.SwitchPreferenceCompat
+            android:key="key1"
+            android:title="Switch Preference"
+            android:summary="Switch Summary"
+            android:defaultValue="true" />
+-->
+
+
+
+        <android.support.v7.preference.CheckBoxPreference
+            android:key="vibrate"
+            android:title="Vibrate"
+            android:defaultValue="true"/>
+
+      <!--  <android.support.v7.preference.CheckBoxPreference
+            android:key="shake"
+            android:title="Shake Strings"
+
+            android:defaultValue="true"/>
+-->
+
+        <com.bmniman.littleguitarians.Classes.SeekBarPreference
+            android:key="fretDist"
+            android:title="Fret Distance"
+            android:defaultValue="69"
+            android:progress="60"
+            android:max="120"
+
+            />
+
+        <Preference android:title="Logout"  android:key="exitlink"/>
+        <Preference android:title="Click To Fill The Survey"  android:key="survey"/>
+
+
+
+    </android.support.v7.preference.PreferenceCategory>
+
+
+<!--
+
+    <android.support.v7.preference.PreferenceCategory
+        android:title="Profile">
+        <android.support.v7.preference.EditTextPreference
+            android:key="name"
+            android:title="Name"
+            android:dialogMessage="Enter Your Name"
+            android:dialogLayout="@layout/pref_dialog_edittext_fix" />
+
+
+    </android.support.v7.preference.PreferenceCategory>
+-->
+
+
+
+</android.support.v7.preference.PreferenceScreen>
